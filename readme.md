@@ -26,7 +26,7 @@ Usually, it's tested in search boxes, user inputs and urls. So look for the foll
    Start with simple payloads to see if input fields are vulnerable:
    ```sql
    ' OR '1'='1
-sql
+
 
 2. **Injection Rampage**
 
